@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 ### 🚀 About Me
 
 👩‍💻 I’m *Eva Harris*, a student-athlete currently studying statistics at Harvard College. I’m passionate about solving real-world problems using .
@@ -16,7 +14,6 @@
 
 🌍 I love traveling - I've been to 6 countries so far: 🇧🇬 Bulgaria, 🇫🇷 France, 🇧🇸 Bahamas, 🇬🇹 Guatemala, 🇹🇨 Turks and Caicos, 🇨🇦 Canada
 
----
 
 ### 📫 Get in Touch
 
