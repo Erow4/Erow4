@@ -6,7 +6,7 @@ I’m Eva, a student-athlete currently studying **Statistics** at **Harvard Coll
 
 🎓 Academically, I’m interested in topics like **predictive analysis**, **probabilities**, and **computer science**. 
 
-💭 I'm currently working on a **personal project** to **predict crypto trends with machine learning**. I was inspired to tackle this project by the recent spikes in cryptocurrency prices. It’s certainly a volatile topic, so I’m not sure how it’ll behave -- but I’m excited to test it out and see what I learn. 😊
+💭 I'm currently working on a personal project to **predict crypto trends with machine learning**. I was inspired to tackle this project by the recent spikes in cryptocurrency prices. It’s certainly a volatile topic, so I’m not sure how it’ll behave -- but I’m excited to test it out and see what I learn. 😊
 
 🚣 Outside tech, I enjoy pretty much anything that is active, especially rowing! I am member of the **Varsity Lightweight Rowing Team** at Harvard. I also like to run, lift, and just be outside. I am also a massive foodie that loves trying cool new places.
 
