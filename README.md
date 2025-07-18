@@ -12,7 +12,7 @@ I’m Eva, a student-athlete currently studying **Statistics** at **Harvard Coll
 Most recently, I read:  
 • *[Decision-Driven Analytics: Leveraging Human Intelligence to Unlock the Power of Data](https://www.amazon.com/Decision-Driven-Analytics-Leveraging-Intelligence-Unlock/dp/1613631715)* by Bart De Langhe and Stefano Puntoni
 
-🌍 I love traveling 🇧🇬 🇫🇷 🇧🇸 🇬🇹 🇹🇨 🇨🇦
+🌍 I love traveling as well! 🇧🇬 🇫🇷 🇧🇸 🇬🇹 🇹🇨 🇨🇦
 
 ---
 
