@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-👩‍💻 I’m *Eva Harris*, a student-athlete currently studying statistics at Harvard College. I’m passionate about solving real-world problems using .
+👩‍💻 I’m Eva, a student-athlete currently studying statistics at Harvard College. I’m passionate about solving real-world problems using .
 
 🎓 Academically, I’m deeply interested in topics like predictive analysis, probabilities, and computer science. In light of the recent flux in cryptocurrency prices, I’m currently diving into a personal project to apply ML to predict crypto trends. It is a topic that has a lot of volitility, so I am unsure about how it will behave. Nonetheless, I am testing it out because I'm curious about how it will perform :)
 
