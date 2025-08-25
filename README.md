@@ -12,7 +12,7 @@ I’m Eva, a student-athlete currently studying **Statistics** at **Harvard Coll
 
 📚 When it comes to reading, I gravitate toward books on **strategy**, **self-improvement**, and **analytical thinking**, with a soft spot for **historical fiction**.  
 Most recently, I read:  
-- *[Decision-Driven Analytics: Leveraging Human Intelligence to Unlock the Power of Data](https://www.amazon.com/Decision-Driven-Analytics-Leveraging-Intelligence-Unlock/dp/1613631715)* by Bart De Langhe and Stefano Puntoni
+- [Decision-Driven Analytics: Leveraging Human Intelligence to Unlock the Power of Data](https://www.amazon.com/Decision-Driven-Analytics-Leveraging-Intelligence-Unlock/dp/1613631715) by Bart De Langhe and Stefano Puntoni
 - [Elon Musk](https://www.audiobooks.com/audiobook/elon-musk/669289?refId=38712&gad_source=1&gad_campaignid=20802767249&gbraid=0AAAAADzSbyIveEbU_IcigcQl1AA-WGncU&gclid=CjwKCAjwp_LDBhBCEiwAK7FnkpgTNfPFXsLrJVC0HQ0iGYiZDAXnBa9UPZIhP3MUF9CEJpUNE2HHcxoCVrwQAvD_BwE) by Walter Isaacson
 
 
