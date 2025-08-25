@@ -6,7 +6,7 @@ I’m Eva, a student-athlete currently studying **Statistics** at **Harvard Coll
 
 🎓 Academically, I’m interested in topics like **predictive modeling**, **data science**, and **quantitative finance**. 
 
-💭 I recently completed a personal project to use historical data to **predict the future price of Bitcoin**. I was inspired to tackle this project by the recent spikes in cryptocurrency price and the high volatility in the space. I really enjoyed exploring this topic and definitly look to come back to this and refine it in the future!
+💭 I recently completed a personal project to use historical data to **predict the future price of Bitcoin**. I was inspired to tackle this project by the recent spikes in cryptocurrency prices and the high volatility in the space. I really enjoyed exploring this topic and definitly look to come back to this and refine it in the future!
 
 🚣 Outside tech, I enjoy pretty much anything that is active, especially rowing! I am member of the **Varsity Lightweight Rowing Team** at Harvard. I also like to run, lift, and just be outside. I am also a massive foodie that loves trying cool new places.
 
